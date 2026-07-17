@@ -16,3 +16,5 @@ The newly assembled genomes are available at:
    - *B. mexicanum*: https://phytozome-next.jgi.doe.gov/info/Bmexicanum_v2_1
 
 The preprint of the article is available at xxxxxxxxxx
+
+get4fold_degenerateseq.py, python script used to get the 4-fold degenerate sites from codon based alignments.
