@@ -1,6 +1,6 @@
 This repository is part of the supplementary material of the scientific study titled:
 # From tiny to massive: exploring genome evolution in the model grass genus Brachypodium
-Chunlin Chen<sup>1,2†</sup>, Rubén Sancho</sup>1,2†</sup>, Miguel Campos</sup>1,2</sup>, Bruno Contreras-Moreira</sup>3</sup>, Jeremy Schmutz</sup>4</sup>, Jerry Jenkins</sup>4</sup>, Kerrie Barry</sup>5</sup>, Anna Lipzen</sup>5</sup>, Maxim Koriabine</sup>5</sup>, Joanne Eichenberger</sup>5</sup>, Li Lei</sup>5</sup>, John P. Vogel</sup>5*</sup>, David L. Des Marais</sup>6*</sup>, Pilar Catalán</sup>1,2*</sup>
+Chunlin Chen<sup>1,2†</sup>, Rubén Sancho<sup>1,2†</sup>, Miguel Campos<sup>1,2</sup>, Bruno Contreras-Moreira<sup>3</sup>, Jeremy Schmutz<sup>4</sup>, Jerry Jenkins<sup>4</sup>, Kerrie Barry<sup>5</sup>, Anna Lipzen<sup>5</sup>, Maxim Koriabine<sup>5</sup>, Joanne Eichenberger<sup>5</sup>, Li Lei<sup>5</sup>, John P. Vogel<sup>5*</sup>, David L. Des Marais<sup>6*</sup>, Pilar Catalán<sup>1,2*</sup>
 
 1. Department of Agricultural and Environmental Sciences, High Polytechnic School of Huesca, University of Zaragoza, Huesca, Spain.   
 2. Institute for Biocomputation and Physics of Complex Systems, University of Zaragoza (Spain).   
