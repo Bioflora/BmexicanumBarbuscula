@@ -8,7 +8,7 @@ Chunlin Chen<sup>1,2†</sup>, Rubén Sancho<sup>1,2†</sup>, Miguel Campos<sup
 4. HudsonAlpha Institute for Biotechnology, Huntsville, AL (USA).   
 5. Department of Energy Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, California (USA).   
 6. Arizona Genomics Institute, University of Arizona, Tucson, AZ, USA.   
-7. Department of Civil & Environmental Engineering. Massachusetts Institute of Technolo-gy, Cambridge, MA 02138 (USA).   
+7. Department of Civil & Environmental Engineering. Massachusetts Institute of Technology, Cambridge, MA 02138 (USA).   
 † Contributed equally.   
 * Correspondence: pcatalan@unizar.es, dldesmar@mit.edu, jpvogel@lbl.gov   
 
@@ -16,6 +16,6 @@ The newly assembled genomes are available at:
    - *B. arbuscula*: https://phytozome-next.jgi.doe.gov/info/BarbusculaBARB1_v3_1
    - *B. mexicanum*: https://phytozome-next.jgi.doe.gov/info/Bmexicanum_v2_1
 
-The preprint of the article is available at xxxxxxxxxx
+The preprint of the article is available at [https://www.biorxiv.org/content/10.64898/2026.07.16.738966v1]
 
-get4fold_degenerateseq.py, python script used to get the 4-fold degenerate sites from codon based alignments.
+get4fold_degenerateseq.py, a Python script used to get the 4-fold degenerate sites from codon-based alignments.
