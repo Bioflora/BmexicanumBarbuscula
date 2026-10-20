@@ -19,3 +19,5 @@ The newly assembled genomes are available at:
 The preprint of the article is available at [https://www.biorxiv.org/content/10.64898/2026.07.16.738966v1]
 
 get4fold_degenerateseq.py, a Python script used to get the 4-fold degenerate sites from codon-based alignments.
+
+The detailed description of the protocol, scripts, and dataset used in the presence/absence and gene family/orthogroup gain/loss analyses associated with perenniality/annuality in the genus *Brachypodium* is available in the `annual_perennial_orthogroups` folder.
